@@ -73,5 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =================
 
 - Install 
+
 vscode-language-babel
+
 JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
