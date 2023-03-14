@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Board } from './board';
-import './index.css';
+import '../index.css';
 
 
 
